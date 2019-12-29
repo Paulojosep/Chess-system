@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chess-system:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e2a5486b-deff-427f-af9c-283310fe4d11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +48,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunManager">
@@ -87,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577636686249</updated>
-      <workItem from="1577636689551" duration="9365000" />
+      <workItem from="1577636689551" duration="11503000" />
     </task>
     <servers />
   </component>
@@ -99,26 +107,38 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="645" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1577646389785" />
+    <state x="570" y="294" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577648411368">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="294" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1577648411368" />
     <state x="92" y="92" width="1496" height="826" key="DiffContextDialog" timestamp="1577641260397">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="92" y="92" width="1496" height="826" key="DiffContextDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1577641260397" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1577646680761">
+    <state x="620" y="262" key="FileChooserDialogImpl" timestamp="1577648166149">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1577646680761" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1577646680761">
+    <state x="620" y="262" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1577648166149" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1577649013163">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1577646680761" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1577646680761">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1577649013163" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1577649013163">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1577646680761" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1577646680761">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1577649013163" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1577649013162">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1577646680761" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1577649013162" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1577649013163">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1577649013163" />
+    <state x="320" y="82" key="SettingsEditor" timestamp="1577648867775">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="320" y="82" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1577648867775" />
     <state x="222" y="131" key="new project wizard" timestamp="1577637417900">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
